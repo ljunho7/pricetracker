@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "id": "a3xwnd90",
+    "brand": null,
+    "name": null,
+    "size": "S",
+    "added_by": "user",
+    "added_at": "2026-04-06T02:36:35.022Z",
+    "alert_below": null,
+    "source_url": "https://www.saksfifthavenue.com/product/cinq-%C3%A0-sept-atlas-layered-cuff-cardigan-0400025944507.html?dwvar_0400025944507_color=OATMEAL&dwvar_0400025944507_size=Small",
+    "image": null,
+    "status": "pending",
+    "retailers": {
+      "neiman_marcus": {
+        "url": null,
+        "found": false
+      },
+      "saks": {
+        "url": "https://www.saksfifthavenue.com/product/cinq-%C3%A0-sept-atlas-layered-cuff-cardigan-0400025944507.html?dwvar_0400025944507_color=OATMEAL&dwvar_0400025944507_size=Small",
+        "found": true
+      },
+      "farfetch": {
+        "url": null,
+        "found": false
+      },
+      "net_a_porter": {
+        "url": null,
+        "found": false
+      }
+    }
+  }
+]
