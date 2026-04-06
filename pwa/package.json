@@ -1,7 +1,22 @@
 {
-  "name": "price-tracker-pwa",
-  "version": "0.1.0",
+  "name": "pwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "build": "echo 'placeholder'"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "recharts": "^3.8.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.1",
+    "vite": "^8.0.3",
+    "vite-plugin-pwa": "^1.2.0"
   }
 }
