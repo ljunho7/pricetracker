@@ -38,6 +38,7 @@ function normalizeSize(raw) {
 
 async function githubRequest(path, method = 'GET', body = null) {
   const url = `https://api.github.com/repos/${GITHUB_REPO}/contents/${path}?ref=${BRANCH}`
+  console.log('[add-item] calling:', url, 'PAT set:', !!GITHUB_PAT) 
   const opts = {
     method,
     headers: {
