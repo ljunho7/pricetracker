@@ -1,0 +1,7 @@
+requests==2.31.0
+beautifulsoup4==4.12.3
+playwright==1.44.0
+python-slugify==8.0.4
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.25.1
+resend==0.7.2
