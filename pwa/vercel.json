@@ -1,7 +1,5 @@
 {
-  "framework": "vite",
-  "buildCommand": "echo 'placeholder'",
-  "outputDirectory": "."
+  "buildCommand": "cd pwa && npm run build",
+  "outputDirectory": "pwa/dist",
+  "ignoreCommand": "git diff HEAD~1 --name-only | grep -qv '^data/'"
 }
-
-
