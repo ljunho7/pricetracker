@@ -1,5 +1,10 @@
 {
-  "buildCommand": "cd pwa && npm run build",
+  "buildCommand": "cd pwa && npm install && npm run build",
   "outputDirectory": "pwa/dist",
-  "ignoreCommand": "git diff HEAD~1 --name-only | grep -qv '^data/'"
+  "framework": null,
+  "functions": {
+    "pwa/api/*.js": {
+      "runtime": "@vercel/node@3"
+    }
+  }
 }
