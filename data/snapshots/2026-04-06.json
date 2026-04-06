@@ -1,18 +1,18 @@
 [
   {
     "id": "a3xwnd90",
-    "scraped_at": "2026-04-06T02:46:47.975451+00:00",
+    "scraped_at": "2026-04-06T02:48:56.006601+00:00",
     "size": "S",
     "prices": {
       "farfetch": {
         "price": null,
         "in_stock_in_size": false
       },
-      "neiman_marcus": {
+      "net_a_porter": {
         "price": null,
         "in_stock_in_size": false
       },
-      "net_a_porter": {
+      "neiman_marcus": {
         "price": null,
         "in_stock_in_size": false
       },
