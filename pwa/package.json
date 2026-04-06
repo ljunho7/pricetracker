@@ -1,0 +1,7 @@
+{
+  "name": "price-tracker-pwa",
+  "version": "0.1.0",
+  "scripts": {
+    "build": "echo 'placeholder'"
+  }
+}
