@@ -1,0 +1,25 @@
+[
+  {
+    "id": "a3xwnd90",
+    "scraped_at": "2026-04-17T11:42:36.521970+00:00",
+    "size": "S",
+    "prices": {
+      "farfetch": {
+        "price": null,
+        "in_stock_in_size": false
+      },
+      "net_a_porter": {
+        "price": null,
+        "in_stock_in_size": false
+      },
+      "saks": {
+        "price": null,
+        "in_stock_in_size": false
+      },
+      "neiman_marcus": {
+        "price": null,
+        "in_stock_in_size": false
+      }
+    }
+  }
+]
